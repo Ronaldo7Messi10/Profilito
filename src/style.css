@@ -4,18 +4,13 @@
   box-sizing: border-box;
 }
 
-.intro-section {
-  padding: 20px;
-  background: paleturquoise;
-}
-
+.intro-section,
+.contact-section,
+.skills-section,
 .projects-section {
   padding: 20px;
-  background: orange;
 }
 
-.contact-section {
-  padding: 20px;
-  width: 100%;
-  background: wheat;
+.section-heading{
+  margin-bottom:20px;
 }
