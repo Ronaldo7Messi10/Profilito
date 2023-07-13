@@ -6,7 +6,7 @@ export default function App() {
     <>
       <div className="intro-section">
         Vignesh Kalavakuri
-        <div> Web Developer </div>
+        <div> Web Developers </div>
       </div>
 
       <div className="projects-section">
